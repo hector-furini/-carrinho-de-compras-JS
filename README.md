@@ -1,4 +1,4 @@
-<h1>Aluguel de Jogos</h1>
+<h1>Carrinho de compras</h1>
 
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.<p>
@@ -14,7 +14,7 @@
 
 ## English
 
-<h1>Drawing Numbers</h1>
+<h1>Shopping Cart</h1>
 
 <h2>About</h2>
 <p>Project used in Alura's programming logic courses.<p>
